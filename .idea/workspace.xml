@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="84ec4be8-62c8-4e2d-8a55-7b1da2136d92" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/plugin/vits.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/000061.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/CURRENT" beforeDir="false" afterPath="$PROJECT_DIR$/data/images/CURRENT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/CURRENT.bak" beforeDir="false" afterPath="$PROJECT_DIR$/data/images/CURRENT.bak" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/LOG" beforeDir="false" afterPath="$PROJECT_DIR$/data/images/LOG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/MANIFEST-000062" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/leveldb-v3/000078.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/leveldb-v3/CURRENT" beforeDir="false" afterPath="$PROJECT_DIR$/data/leveldb-v3/CURRENT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/leveldb-v3/CURRENT.bak" beforeDir="false" afterPath="$PROJECT_DIR$/data/leveldb-v3/CURRENT.bak" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/leveldb-v3/LOG" beforeDir="false" afterPath="$PROJECT_DIR$/data/leveldb-v3/LOG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/leveldb-v3/MANIFEST-000077" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/videos/000054.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/videos/CURRENT" beforeDir="false" afterPath="$PROJECT_DIR$/data/videos/CURRENT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/videos/CURRENT.bak" beforeDir="false" afterPath="$PROJECT_DIR$/data/videos/CURRENT.bak" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/videos/LOG" beforeDir="false" afterPath="$PROJECT_DIR$/data/videos/LOG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/videos/MANIFEST-000055" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2023-07-19.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/2023-07-19.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/music.py" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/music.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session.token" beforeDir="false" afterPath="$PROJECT_DIR$/session.token" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/txlib/8.9.63/.system_android_l2" beforeDir="false" afterPath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/txlib/8.9.63/.system_android_l2" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2RpKEnAzu4D8ZYpqTYqun5AgnHp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/test/bott/PIC_S&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\test\bott\PIC_S" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.vits">
+    <configuration name="musicConfig" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bott" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/plugin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plugin/musicConfig.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ncm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bott" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/plugin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plugin/ncm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="picture" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bott" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/plugin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plugin/picture.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="vits" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bott" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/plugin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plugin/vits.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="vitsapi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bott" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Temp/Temp1_群主接口的python调用.zip/vitsapi-main" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Temp/Temp1_群主接口的python调用.zip/vitsapi-main/vitsapi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.vits" />
+        <item itemvalue="Python.vitsapi" />
+        <item itemvalue="Python.ncm" />
+        <item itemvalue="Python.musicConfig" />
+        <item itemvalue="Python.picture" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84ec4be8-62c8-4e2d-8a55-7b1da2136d92" name="Changes" comment="" />
+      <created>1687941473404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687941473404</updated>
+      <workItem from="1687941474417" duration="1462000" />
+      <workItem from="1687959160196" duration="4529000" />
+      <workItem from="1687964110280" duration="6906000" />
+      <workItem from="1688109533349" duration="17000" />
+      <workItem from="1688110806519" duration="14923000" />
+      <workItem from="1688142250399" duration="1156000" />
+      <workItem from="1688285079485" duration="26111000" />
+      <workItem from="1688404579713" duration="6068000" />
+      <workItem from="1688463264511" duration="4000" />
+      <workItem from="1688478867733" duration="2007000" />
+      <workItem from="1688481458801" duration="6284000" />
+      <workItem from="1688495554611" duration="2612000" />
+      <workItem from="1688561614070" duration="11359000" />
+      <workItem from="1688998662526" duration="6820000" />
+      <workItem from="1689147293535" duration="18447000" />
+      <workItem from="1689689321372" duration="8031000" />
+      <workItem from="1689878607181" duration="185000" />
+      <workItem from="1689933653460" duration="9760000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/bott$vitsapi.coverage" NAME="vitsapi Coverage Results" MODIFIED="1689938916156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Temp1_群主接口的python调用.zip/vitsapi-main" />
+    <SUITE FILE_PATH="coverage/bott$test.coverage" NAME="test Coverage Results" MODIFIED="1688142995029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plugin" />
+    <SUITE FILE_PATH="coverage/bott$ncm.coverage" NAME="ncm Coverage Results" MODIFIED="1689934428834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plugin" />
+    <SUITE FILE_PATH="coverage/bott$picture.coverage" NAME="picture Coverage Results" MODIFIED="1688490448190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plugin" />
+    <SUITE FILE_PATH="coverage/bott$musicConfig.coverage" NAME="musicConfig Coverage Results" MODIFIED="1688565996459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plugin" />
+    <SUITE FILE_PATH="coverage/bott$vits.coverage" NAME="vits Coverage Results" MODIFIED="1689943078143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plugin" />
+    <SUITE FILE_PATH="coverage/bott$weather.coverage" NAME="weather Coverage Results" MODIFIED="1688314202510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plugin" />
+  </component>
+</project>
