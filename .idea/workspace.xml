@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84ec4be8-62c8-4e2d-8a55-7b1da2136d92" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/plugin/vits.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/000061.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/CURRENT" beforeDir="false" afterPath="$PROJECT_DIR$/data/images/CURRENT" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/CURRENT.bak" beforeDir="false" afterPath="$PROJECT_DIR$/data/images/CURRENT.bak" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/LOG" beforeDir="false" afterPath="$PROJECT_DIR$/data/images/LOG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/MANIFEST-000062" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/leveldb-v3/000078.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/leveldb-v3/CURRENT" beforeDir="false" afterPath="$PROJECT_DIR$/data/leveldb-v3/CURRENT" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/leveldb-v3/CURRENT.bak" beforeDir="false" afterPath="$PROJECT_DIR$/data/leveldb-v3/CURRENT.bak" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/leveldb-v3/LOG" beforeDir="false" afterPath="$PROJECT_DIR$/data/leveldb-v3/LOG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/leveldb-v3/MANIFEST-000077" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/videos/000054.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/videos/CURRENT" beforeDir="false" afterPath="$PROJECT_DIR$/data/videos/CURRENT" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/videos/CURRENT.bak" beforeDir="false" afterPath="$PROJECT_DIR$/data/videos/CURRENT.bak" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/videos/LOG" beforeDir="false" afterPath="$PROJECT_DIR$/data/videos/LOG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/videos/MANIFEST-000055" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/2023-07-19.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/2023-07-19.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin/music.py" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/music.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session.token" beforeDir="false" afterPath="$PROJECT_DIR$/session.token" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/txlib/8.9.63/.system_android_l2" beforeDir="false" afterPath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/txlib/8.9.63/.system_android_l2" afterDir="false" />
-    </list>
+    <list default="true" id="84ec4be8-62c8-4e2d-8a55-7b1da2136d92" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -224,6 +203,7 @@
       <workItem from="1689689321372" duration="8031000" />
       <workItem from="1689878607181" duration="185000" />
       <workItem from="1689933653460" duration="9760000" />
+      <workItem from="1690296840753" duration="876000" />
     </task>
     <servers />
   </component>
