@@ -22,7 +22,7 @@ def getData(url:str,parms:list):
         return requests.get(url)
 
 
-word=on_command("天气")
+word=on_command("现在天气")
 @word.handle()
 async def _(bot:Bot,event: Event,ags:Message=CommandArg()):
     parms = ["key=bc082dbe33794190c7e113164a358604"]

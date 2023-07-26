@@ -7,13 +7,14 @@ from pyncm.apis.cloudsearch import GetSearchResult
 from pyncm.apis.login import LoginViaCellphone
 from pyncm.apis.track import GetTrackAudio
 from pyncm.apis.login import LoginViaAnonymousAccount
-
-LoginViaCellphone("18932232420","2028321627htc")
+from .musicConfig import music_config
+print(music_config.music_account)
+print(music_config.music_password)
+LoginViaCellphone(music_config.music_account,music_config.music_password)
 music=on_keyword(["music"])
 option_text='''请选择想要的功能:
-              1.转换成音频发送
-              2.下载原曲
-              3.网页快捷听歌(推荐)
+              1.网页快捷听歌(推荐)
+              2.转换成音频发送
 '''
 
 
