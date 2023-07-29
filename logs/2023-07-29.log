@@ -1,0 +1,39 @@
+[2023-07-29 00:04:14] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-07-29 00:04:15] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-07-29 00:04:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-29 00:04:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-29 00:04:56] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-07-29 00:05:00] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-07-29 00:09:05] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-07-29 00:09:05] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-07-29 00:09:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-29 00:09:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-29 00:10:45] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-07-29 00:10:45] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-07-29 00:10:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-29 00:11:23] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-07-29 00:11:25] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-07-29 00:11:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-29 00:11:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-29 00:11:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-29 00:13:17] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-07-29 00:13:20] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-07-29 00:13:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-29 00:26:12] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-07-29 00:26:15] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-07-29 00:38:57] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-07-29 00:39:00] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-07-29 00:39:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-29 01:15:22] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-07-29 01:15:25] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-07-29 01:15:28] [WARNING]: 尝试重连... 
+[2023-07-29 01:15:29] [WARNING]: 快速重连失败: exchange_emp failed: 40 
+[2023-07-29 01:15:29] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-07-29 01:15:30] [WARNING]: 登录失败: 账号被冻结 Code: 40 
+[2023-07-29 01:35:31] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-07-29 01:35:31] [ERROR]: Protocol -> parse incoming packet error: return code unsuccessful: -10003 
+[2023-07-29 01:35:46] [ERROR]: Protocol -> parse incoming packet error: return code unsuccessful: -10003 
+[2023-07-29 01:36:01] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2023-07-29 02:03:04] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-07-29 02:03:05] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-07-29 02:03:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8890/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it. 

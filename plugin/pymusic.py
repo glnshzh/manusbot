@@ -10,7 +10,7 @@ from pyncm.apis.login import LoginViaAnonymousAccount
 from .musicConfig import music_config
 print(music_config.music_account)
 print(music_config.music_password)
-LoginViaCellphone(music_config.music_account,music_config.music_password)
+#LoginViaCellphone(music_config.music_account,music_config.music_password)
 music=on_keyword(["music"])
 option_text='''请选择想要的功能:
               1.网页快捷听歌(推荐)
@@ -47,7 +47,7 @@ async def _(state:T_State,option:str=ArgPlainText()):
     pic=song['al']['picUrl']
     pic=MessageSegment.image(pic)
     await music.send(pic)
-    if option=="3":
+    if option=="1":
         download=GetTrackAudio(song['id'],bitrate=6400 * 2000)
         url=download['data'][0]['url']
         print(url)
@@ -56,6 +56,13 @@ async def _(state:T_State,option:str=ArgPlainText()):
         else:
             await music.send(url)
     if option=="2":
+        download=GetTrackAudio(song['id'],bitrate=6400 * 2000)
+        url=download['data'][0]['url']
+        print(url)
+        if url=='' or url==None:
+            await music.send("歌曲收听,网易云没有上架该音乐")
+        music_recoard = MessageSegment.record(url)
+        await music.send(music_recoard)
         print("")
     await music.finish()
 

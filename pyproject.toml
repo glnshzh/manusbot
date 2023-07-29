@@ -9,6 +9,6 @@ requires-python = ">=3.8, <4.0"
 adapters = [
     { name = "OneBot V11", module_name = "nonebot.adapters.onebot.v11" }
 ]
-plugins = ["nonebot_plugin_tarot", "nonebot_plugin_questionmark",  "nonebot_plugin_alipayvoice", "nonebot-plugin-csgo-case-simulator"]
+plugins = ["nonebot_plugin_tarot", "nonebot_plugin_questionmark",  "nonebot_plugin_alipayvoice", "nonebot_plugin_apscheduler", "haruka_bot"]
 plugin_dirs = ["plugin"]
 builtin_plugins = ["echo"]

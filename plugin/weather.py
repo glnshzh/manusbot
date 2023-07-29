@@ -4,7 +4,10 @@ from nonebot.adapters.onebot.v11 import Event, Message, MessageEvent
 from nonebot.params import CommandArg
 import requests
 from nonebot.plugin.on import on_command
+from nonebot import require
 
+require("nonebot_plugin_apscheduler")
+from nonebot_plugin_apscheduler import scheduler
 WEEKENUM={'1':'一','2':'二','3':'三','4':'四','5':'五','6':'六','7':'日'}
 def getData(url:str,parms:list):
     url+="?"

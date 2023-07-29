@@ -1,1 +1,0 @@
-.\bin\unidbg-fetch-qsign.bat  --port=10101   --count=4 --library=txlib\8.9.63  --android_id=1bb4f734d7fa024

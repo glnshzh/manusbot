@@ -1,0 +1,99 @@
+07-28 23:35:29 [ERROR] apscheduler | Job "dy_sched (trigger: date[2023-07-28 23:35:29 CST], next run at: 2023-07-28 23:35:29 CST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\47818\AppData\Local\Programs\Python\Python310\lib\runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "C:\Users\47818\AppData\Local\Programs\Python\Python310\lib\runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "F:\test\bott\.venv\Scripts\hb.exe\__main__.py", line 7, in <module>
+    sys.exit(main())
+  File "F:\test\bott\.venv\lib\site-packages\click\core.py", line 1130, in __call__
+    return self.main(*args, **kwargs)
+  File "F:\test\bott\.venv\lib\site-packages\click\core.py", line 1055, in main
+    rv = self.invoke(ctx)
+  File "F:\test\bott\.venv\lib\site-packages\click\core.py", line 1657, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "F:\test\bott\.venv\lib\site-packages\click\core.py", line 1404, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "F:\test\bott\.venv\lib\site-packages\click\core.py", line 760, in invoke
+    return __callback(*args, **kwargs)
+  File "F:\test\bott\.venv\lib\site-packages\haruka_bot\cli\__init__.py", line 16, in run
+    run()
+  File "F:\test\bott\.venv\lib\site-packages\haruka_bot\cli\bot.py", line 35, in run
+    nonebot.run(app="haruka_bot.cli.bot:app")
+  File "F:\test\bott\.venv\lib\site-packages\nonebot\__init__.py", line 309, in run
+    get_driver().run(*args, **kwargs)
+  File "F:\test\bott\.venv\lib\site-packages\nonebot\drivers\fastapi.py", line 198, in run
+    uvicorn.run(
+  File "F:\test\bott\.venv\lib\site-packages\uvicorn\main.py", line 578, in run
+    server.run()
+  File "F:\test\bott\.venv\lib\site-packages\uvicorn\server.py", line 61, in run
+    return asyncio.run(self.serve(sockets=sockets))
+  File "C:\Users\47818\AppData\Local\Programs\Python\Python310\lib\asyncio\runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "C:\Users\47818\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 636, in run_until_complete
+    self.run_forever()
+  File "C:\Users\47818\AppData\Local\Programs\Python\Python310\lib\asyncio\windows_events.py", line 321, in run_forever
+    super().run_forever()
+  File "C:\Users\47818\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 603, in run_forever
+    self._run_once()
+  File "C:\Users\47818\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 1909, in _run_once
+    handle._run()
+  File "C:\Users\47818\AppData\Local\Programs\Python\Python310\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+> File "F:\test\bott\.venv\lib\site-packages\apscheduler\executors\base_py3.py", line 30, in run_coroutine_job
+    retval = await job.func(*job.args, **job.kwargs)
+  File "F:\test\bott\.venv\lib\site-packages\haruka_bot\plugins\pusher\dynamic_pusher.py", line 29, in dy_sched
+    await asyncio.sleep(1)
+  File "C:\Users\47818\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 605, in sleep
+    return await future
+asyncio.exceptions.CancelledError
+07-28 23:39:31 [ERROR] uvicorn | [Errno 10048] error while attempting to bind on address ('127.0.0.1', 8890): 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+07-28 23:39:31 [ERROR] apscheduler | Job "dy_sched (trigger: date[2023-07-28 23:39:31 CST], next run at: 2023-07-28 23:39:31 CST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\47818\AppData\Local\Programs\Python\Python310\lib\runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "C:\Users\47818\AppData\Local\Programs\Python\Python310\lib\runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "F:\test\bott\.venv\Scripts\hb.exe\__main__.py", line 7, in <module>
+    sys.exit(main())
+  File "F:\test\bott\.venv\lib\site-packages\click\core.py", line 1130, in __call__
+    return self.main(*args, **kwargs)
+  File "F:\test\bott\.venv\lib\site-packages\click\core.py", line 1055, in main
+    rv = self.invoke(ctx)
+  File "F:\test\bott\.venv\lib\site-packages\click\core.py", line 1657, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "F:\test\bott\.venv\lib\site-packages\click\core.py", line 1404, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "F:\test\bott\.venv\lib\site-packages\click\core.py", line 760, in invoke
+    return __callback(*args, **kwargs)
+  File "F:\test\bott\.venv\lib\site-packages\haruka_bot\cli\__init__.py", line 16, in run
+    run()
+  File "F:\test\bott\.venv\lib\site-packages\haruka_bot\cli\bot.py", line 35, in run
+    nonebot.run(app="haruka_bot.cli.bot:app")
+  File "F:\test\bott\.venv\lib\site-packages\nonebot\__init__.py", line 309, in run
+    get_driver().run(*args, **kwargs)
+  File "F:\test\bott\.venv\lib\site-packages\nonebot\drivers\fastapi.py", line 198, in run
+    uvicorn.run(
+  File "F:\test\bott\.venv\lib\site-packages\uvicorn\main.py", line 578, in run
+    server.run()
+  File "F:\test\bott\.venv\lib\site-packages\uvicorn\server.py", line 61, in run
+    return asyncio.run(self.serve(sockets=sockets))
+  File "C:\Users\47818\AppData\Local\Programs\Python\Python310\lib\asyncio\runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "C:\Users\47818\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 636, in run_until_complete
+    self.run_forever()
+  File "C:\Users\47818\AppData\Local\Programs\Python\Python310\lib\asyncio\windows_events.py", line 321, in run_forever
+    super().run_forever()
+  File "C:\Users\47818\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 603, in run_forever
+    self._run_once()
+  File "C:\Users\47818\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 1909, in _run_once
+    handle._run()
+  File "C:\Users\47818\AppData\Local\Programs\Python\Python310\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+> File "F:\test\bott\.venv\lib\site-packages\apscheduler\executors\base_py3.py", line 30, in run_coroutine_job
+    retval = await job.func(*job.args, **job.kwargs)
+  File "F:\test\bott\.venv\lib\site-packages\haruka_bot\plugins\pusher\dynamic_pusher.py", line 29, in dy_sched
+    await asyncio.sleep(1)
+  File "C:\Users\47818\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 605, in sleep
+    return await future
+asyncio.exceptions.CancelledError
