@@ -10,125 +10,74 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84ec4be8-62c8-4e2d-8a55-7b1da2136d92" name="Changes" comment="Changes">
-      <change beforePath="$PROJECT_DIR$/.env.prod" beforeDir="false" afterPath="$PROJECT_DIR$/.env.prod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Lib/site-packages/httpx-0.23.3.dist-info/INSTALLER" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Lib/site-packages/httpx-0.23.3.dist-info/METADATA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Lib/site-packages/httpx-0.23.3.dist-info/RECORD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Lib/site-packages/httpx-0.23.3.dist-info/WHEEL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Lib/site-packages/httpx-0.23.3.dist-info/entry_points.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Lib/site-packages/httpx-0.23.3.dist-info/licenses/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Lib/site-packages/httpx/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/httpx/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Lib/site-packages/httpx/__version__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/httpx/__version__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Lib/site-packages/httpx/_auth.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/httpx/_auth.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Lib/site-packages/httpx/_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/httpx/_client.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Lib/site-packages/httpx/_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/httpx/_config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Lib/site-packages/httpx/_content.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/httpx/_content.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Lib/site-packages/httpx/_decoders.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/httpx/_decoders.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Lib/site-packages/httpx/_multipart.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/httpx/_multipart.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Lib/site-packages/httpx/_transports/default.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/httpx/_transports/default.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Lib/site-packages/httpx/_transports/mock.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/httpx/_transports/mock.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Lib/site-packages/httpx/_urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/httpx/_urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Lib/site-packages/httpx/_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/httpx/_utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Lib/site-packages/nonebot-plugin-csgo-case-simulator/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Lib/site-packages/nonebot-plugin-csgo-case-simulator/background3.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Lib/site-packages/nonebot-plugin-csgo-case-simulator/crates.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Lib/site-packages/nonebot-plugin-csgo-case-simulator/font/font.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Lib/site-packages/nonebot-plugin-csgo-case-simulator/json/cases.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Lib/site-packages/nonebot-plugin-csgo-case-simulator/json/skins.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Lib/site-packages/nonebot-plugin-csgo-case-simulator/json/souvenir.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Lib/site-packages/nonebot-plugin-csgo-case-simulator/skins.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Lib/site-packages/nonebot-plugin-csgo-case-simulator/utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Lib/site-packages/nonebot_plugin_csgo_case_simulator-0.1.15.dist-info/INSTALLER" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Lib/site-packages/nonebot_plugin_csgo_case_simulator-0.1.15.dist-info/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Lib/site-packages/nonebot_plugin_csgo_case_simulator-0.1.15.dist-info/METADATA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Lib/site-packages/nonebot_plugin_csgo_case_simulator-0.1.15.dist-info/RECORD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Lib/site-packages/nonebot_plugin_csgo_case_simulator-0.1.15.dist-info/REQUESTED" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Lib/site-packages/nonebot_plugin_csgo_case_simulator-0.1.15.dist-info/WHEEL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Scripts/httpx.exe" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Scripts/httpx.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/000042.ldb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/000057.ldb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/000060.ldb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/000063.ldb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/000064.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/CURRENT" beforeDir="false" afterPath="$PROJECT_DIR$/data/images/CURRENT" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/CURRENT.bak" beforeDir="false" afterPath="$PROJECT_DIR$/data/images/CURRENT.bak" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/LOG" beforeDir="false" afterPath="$PROJECT_DIR$/data/images/LOG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/MANIFEST-000065" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/leveldb-v3/000074.ldb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/leveldb-v3/000075.ldb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/leveldb-v3/000079.ldb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/leveldb-v3/000080.ldb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/leveldb-v3/000081.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/leveldb-v3/CURRENT" beforeDir="false" afterPath="$PROJECT_DIR$/data/leveldb-v3/CURRENT" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/leveldb-v3/CURRENT.bak" beforeDir="false" afterPath="$PROJECT_DIR$/data/leveldb-v3/CURRENT.bak" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/leveldb-v3/LOG" beforeDir="false" afterPath="$PROJECT_DIR$/data/leveldb-v3/LOG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/leveldb-v3/MANIFEST-000082" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/videos/000056.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/videos/CURRENT" beforeDir="false" afterPath="$PROJECT_DIR$/data/videos/CURRENT" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/videos/CURRENT.bak" beforeDir="false" afterPath="$PROJECT_DIR$/data/videos/CURRENT.bak" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/videos/LOG" beforeDir="false" afterPath="$PROJECT_DIR$/data/videos/LOG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/videos/MANIFEST-000057" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/2023-07-12.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin/gpt.py" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/gpt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin/pymusic.py" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/pymusic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin/weather.py" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/weather.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session.token" beforeDir="false" afterPath="$PROJECT_DIR$/session.token" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/bin/unidbg-fetch-qsign" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/bin/unidbg-fetch-qsign.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/alpn-api-1.1.3.v20160715.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/annotations-23.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/config-1.4.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/jansi-2.4.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/kotlin-reflect-1.8.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/kotlin-stdlib-1.8.22.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/kotlin-stdlib-common-1.8.22.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/kotlin-stdlib-jdk7-1.8.22.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/kotlin-stdlib-jdk8-1.8.22.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/kotlinx-coroutines-core-jvm-1.7.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/kotlinx-coroutines-jdk8-1.7.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/kotlinx-serialization-core-jvm-1.5.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/kotlinx-serialization-json-jvm-1.5.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/kotlinx-serialization-protobuf-jvm-1.5.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/ktor-events-jvm-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/ktor-http-cio-jvm-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/ktor-http-jvm-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/ktor-io-jvm-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/ktor-network-jvm-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/ktor-serialization-jvm-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/ktor-serialization-kotlinx-json-jvm-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/ktor-serialization-kotlinx-jvm-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/ktor-server-content-negotiation-jvm-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/ktor-server-core-jvm-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/ktor-server-host-common-jvm-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/ktor-server-netty-jvm-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/ktor-utils-jvm-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/ktor-websockets-jvm-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/logback-classic-1.2.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/logback-core-1.2.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/netty-buffer-4.1.92.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/netty-codec-4.1.92.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/netty-codec-http-4.1.92.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/netty-codec-http2-4.1.92.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/netty-common-4.1.92.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/netty-handler-4.1.92.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/netty-resolver-4.1.92.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/netty-transport-4.1.92.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/netty-transport-classes-epoll-4.1.92.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/netty-transport-classes-kqueue-4.1.92.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/netty-transport-native-epoll-4.1.92.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/netty-transport-native-kqueue-4.1.92.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/netty-transport-native-unix-common-4.1.92.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/slf4j-api-1.7.36.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/unidbg-fetch-qsign-1.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/lib/unidbg-fix.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/run.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/txlib/8.9.63/.system_android_l2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/txlib/8.9.63/libQSec.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unidbg-fetch-qsign-1.0.4/unidbg-fetch-qsign-1.0.4/txlib/8.9.63/libfekit.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/device.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-cqhttp.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-cqhttp_windows_amd64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/bin/unidbg-fetch-qsign" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/bin/unidbg-fetch-qsign.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/alpn-api-1.1.3.v20160715.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/annotations-23.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/config-1.4.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/jansi-2.4.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/kotlin-reflect-1.8.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/kotlin-stdlib-1.8.22.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/kotlin-stdlib-common-1.8.22.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/kotlin-stdlib-jdk7-1.8.22.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/kotlin-stdlib-jdk8-1.8.22.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/kotlinx-coroutines-core-jvm-1.7.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/kotlinx-coroutines-jdk8-1.7.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/kotlinx-serialization-core-jvm-1.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/kotlinx-serialization-json-jvm-1.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/kotlinx-serialization-protobuf-jvm-1.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/ktor-events-jvm-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/ktor-http-cio-jvm-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/ktor-http-jvm-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/ktor-io-jvm-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/ktor-network-jvm-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/ktor-serialization-jvm-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/ktor-serialization-kotlinx-json-jvm-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/ktor-serialization-kotlinx-jvm-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/ktor-server-content-negotiation-jvm-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/ktor-server-core-jvm-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/ktor-server-host-common-jvm-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/ktor-server-netty-jvm-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/ktor-server-status-pages-jvm-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/ktor-utils-jvm-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/ktor-websockets-jvm-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/logback-classic-1.2.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/logback-core-1.2.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/netty-buffer-4.1.92.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/netty-codec-4.1.92.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/netty-codec-http-4.1.92.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/netty-codec-http2-4.1.92.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/netty-common-4.1.92.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/netty-handler-4.1.92.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/netty-resolver-4.1.92.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/netty-transport-4.1.92.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/netty-transport-classes-epoll-4.1.92.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/netty-transport-classes-kqueue-4.1.92.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/netty-transport-native-epoll-4.1.92.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/netty-transport-native-kqueue-4.1.92.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/netty-transport-native-unix-common-4.1.92.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/slf4j-api-1.7.36.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/unidbg-android.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/lib/unidbg-fetch-qsign-1.1.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/txlib/8.9.63/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/txlib/8.9.63/dtconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/txlib/8.9.63/libQSec.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/txlib/8.9.63/libfekit.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/txlib/8.9.68/.system_android_l2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/txlib/8.9.68/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/txlib/8.9.68/dtconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/txlib/8.9.68/libQSec.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/txlib/8.9.68/libfekit.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/txlib/8.9.68/stderr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/txlib/8.9.68/stdin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qsign-1.1.5/unidbg-fetch-qsign-1.1.5/txlib/8.9.68/stdout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session.token" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,8 +109,6 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
@@ -180,6 +127,11 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.test">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="musicConfig" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="bott" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -333,6 +285,9 @@
       <workItem from="1690558623488" duration="4434000" />
       <workItem from="1690616514294" duration="62000" />
       <workItem from="1690656059332" duration="28000" />
+      <workItem from="1690722501501" duration="2000" />
+      <workItem from="1690735904443" duration="85000" />
+      <workItem from="1690737307340" duration="13000" />
     </task>
     <servers />
   </component>
